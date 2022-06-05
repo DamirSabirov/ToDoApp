@@ -15,5 +15,5 @@
 ---
 💻 Видео, демонстрирующее работу проекта:
 
-https://user-images.githubusercontent.com/99603099/172048133-336ebfcd-c236-49fb-b5b3-a8415cdc87d9.mp4
+https://user-images.githubusercontent.com/99603099/172056728-119ac8b1-9471-49fe-83d8-d9fc906f9a2c.mp4
 
